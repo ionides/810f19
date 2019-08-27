@@ -1,0 +1,22 @@
+---
+title: "STATS 810 (Fall 2019) Literature Proseminar<br>
+Including Discussions on Responsible Conduct in Research and Scholarship"
+author: "Instructor: Edward L. Ionides"
+output:
+  html_document:
+    theme: flatly
+    toc: no
+---
+
+------
+
+[Syllabus](syllabus.pdf) 
+
+----------
+
+## Class notes 
+
+
+------------
+
+-----------
