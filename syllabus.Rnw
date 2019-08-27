@@ -22,7 +22,7 @@ entries <- c(
 "Encouraging responsible conduct in class, as teacher and student.",
 "R and Unix.",
 "THANKSGIVING",
-"High performance and parallel computing; the UM Flux cluster.",
+"High performance and parallel computing; cluster computing at UM.",
 "Reproducible research; R packages, R markdown, git."
 )
 
