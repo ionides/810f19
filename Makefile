@@ -8,6 +8,12 @@ html-docs: index.html
 %.html: %.md
 	pandoc $*.md > $*.html
 
+%.pdf: %.tex
+	pdflatex $*.tex
+
+%.tex: %.Rnw
+	Rscript -e "library(knitr); knit(\"$*.Rnw\")"
+
 %.R: %.Rmd
 	Rscript --vanilla -e "library(knitr); purl(\"$*.Rmd\",output=\"$*.R\")"
 
