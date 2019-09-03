@@ -51,7 +51,7 @@ The first 8 weeks of Stat 810 will focus on responsible conduct of research and 
 
  Certification of RCRS instruction is advised for all students, since most PhD students and postdocs will at some point be working on federally funded projects. In order to achieve certification, attendance and participation of students is required. Therefore, for the first 8 weeks of 810, it will be necessary to check the attendance of all registered students. The first class of 810 will discuss why RCRS instruction has been mandated, and this would be an appropriate time to raise any concerns you might have about whether RCRS instruction is a worthwhile use of your time. If you cannot be present at class, please contact me: we can arrange a substitution which will involve a writing assignment together with a make-up attendance requirement. If you cannot complete the weekly writing assignment before class, we can arrange a make-up writing assignment.
 
-The 9th class will extend the RCRS discussion to classroom issues arising in your dual roles as instructor and student. The remaining four classes will discuss various issues related to statistical computation: R, Latex, Unix, integrating text and computation (knitR, rmarkdown), parallel computation, communicating statistical methodology (R packages).
+The 9th class will extend the RCRS discussion to classroom issues arising in your dual roles as instructor and student. The remaining classes will discuss various issues related to statistical computation: R, Latex, Unix, integrating text and computation (knitR, rmarkdown), parallel computation, communicating statistical methodology (R packages).
 
 
 {\bf %\large 
