@@ -11,6 +11,7 @@ admin
 *\.nav
 *\.spl
 *\.so
+\*.snm
 *\.o
 *~
 

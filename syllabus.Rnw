@@ -20,7 +20,7 @@ entries <- c(
 "Collaborative research; human participants and animal subjects. \\em{[pp.\ 24-28, 39-42, 48-49]}",
 "Misconduct: Plagiarism, falsification, fabrication. \\em{[pp.\ 15-23]}",
 "Encouraging responsible conduct in class, as teacher and student.",
-"R and Unix.",
+"The rise of diversity, equity and inclusion (DEI) as an RCRS issue.",
 "High performance and parallel computing; cluster computing at UM.",
 "THANKSGIVING",
 "Reproducible research; R packages, R markdown, git."
