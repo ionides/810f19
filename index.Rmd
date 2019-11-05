@@ -17,39 +17,23 @@ A [free pdf copy](http://www.nap.edu/catalog.php?record_id=12192) is available o
 
 ## Homework assignments and class notes 
 
-* [Homework 1. What is responsible conduct in research and scholarship (RCRS)? Why are we discussing it?](hw01.pdf). 
+* [Homework 1. What is responsible conduct in research and scholarship (RCRS)? Why are we discussing it?](hw01.pdf). [Class 1 notes](class01.pdf).
+
+* [Homework 2. Building and maintaining healthy mentor/mentee relationships](hw02.pdf). [Class 2 notes](class02.pdf).
     
-    [Class 1 notes](class01.pdf).
+* [Homework 3. Publication and peer review](hw03.pdf). [Class 3 notes](class03.pdf).
 
-* [Homework 2. Building and maintaining healthy mentor/mentee relationships](hw02.pdf).
+* [Homework 4. Academic misconduct](hw04.pdf). [Class 4 notes](class04.pdf).
 
-    [Class 2 notes](class02.pdf).
-    
-* [Homework 3. Publication and peer review](hw03.pdf).
+* [Homework 5. Data and the reproducibility of research results](hw05.pdf). [Class 5 notes](class05.pdf).
 
-    [Class 3 notes](class03.pdf).
+* [Homework 6. Conflicts of interest and conflicts of commitment](hw06.pdf). [Class 6 notes](class06.pdf).
 
-* [Homework 4. Academic misconduct](hw04.pdf).
-
-    [Class 4 notes](class04.pdf).
-
-* [Homework 5. Data and the reproducibility of research results](hw05.pdf).
-
-    [Class 5 notes](class05.pdf).
-
-* [Homework 6. Conflicts of interest and conflicts of commitment](hw06.pdf).
-
-    [Class 6 notes](class06.pdf).
-
-* [Homework 7. Collaborative research & Human participants and animal subjects
-](hw07.pdf).
-
-    [Class 7 notes](class07.pdf).
+* [Homework 7. Collaborative research & Human participants and animal subjects](hw07.pdf). [Class 7 notes](class07.pdf).
 
 * [Homework 8. Encouraging responsible conduct in class, as teacher and student
-](hw08.pdf).
+](hw08.pdf). [Class 8 notes](class08.pdf).
 
-    [Class 8 notes](class08.pdf).
 
 * [Homework 9. Diversity, equity and inclusion from a PhD student perspective](hw09.pdf).
 
