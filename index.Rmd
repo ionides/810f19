@@ -39,7 +39,7 @@ A [free pdf copy](http://www.nap.edu/catalog.php?record_id=12192) is available o
 
 * [Homework 10. Topics in statistical computing: collaborative computing and especially git](hw10.pdf).  [Class 10 notes](class10.pdf).
 
-* [Homework 11. Linux and the open source software movement](hw11.pdf).
+* [Homework 11. Linux and the open source software movement](hw11.pdf).  [Class 11 notes](class11.pdf).
 
 ------------
 
