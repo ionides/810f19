@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -268,7 +269,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -342,18 +342,6 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -402,6 +390,7 @@ Instructor: Edward L. Ionides
 <li><p><a href="hw10.pdf">Homework 10. Topics in statistical computing: collaborative computing and especially git</a>. <a href="class10.pdf">Class 10 notes</a>.</p></li>
 <li><p><a href="hw11.pdf">Homework 11. Linux and the open source software movement</a>. <a href="class11.pdf">Class 11 notes</a>.</p></li>
 </ul>
+<p><a href="hw12.pdf">Homework 12. Parallel statistical computing</a>.</p>
 <hr />
 <hr />
 </div>
@@ -423,6 +412,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
