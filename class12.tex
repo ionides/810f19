@@ -146,6 +146,10 @@ Some cluster use outside of STATS 507: 5
 \end{frame}
 
 \begin{frame}
+\ans{In stats 507 we used MapReduce to calculate summary statistics on a large dataset andto count words in a large text file.  This seems more appropriate than using foreach since you are working with different data and then combining the results, rather than repeating the same task (as in an experiment) over and over again.}
+\end{frame}
+
+\begin{frame}
 
   People argued in favor of Hadoop. However, \texttt{foreach} has a .combine() operation, and can implement a map-reduce paradigm. If you are working in R and don't have massive distributed data, \texttt{foreach} provides similar functionality to Hadoop MapReduce.
 
