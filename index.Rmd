@@ -41,7 +41,7 @@ A [free pdf copy](http://www.nap.edu/catalog.php?record_id=12192) is available o
 
 * [Homework 11. Linux and the open source software movement](hw11.pdf).  [Class 11 notes](class11.pdf).
 
-* [Homework 12. Parallel statistical computing](hw12.pdf).
+* [Homework 12. Parallel statistical computing](hw12.pdf). [Class 12 notes](class12.pdf).
 
 ------------
 
